@@ -68,7 +68,7 @@ $ docker run -d eu.gcr.io/$environment/frontend-propitix:$tag-version
 
 Default web root:
 
-checking jenkins
+
 ```
 /usr/share/nginx/html
 ```
